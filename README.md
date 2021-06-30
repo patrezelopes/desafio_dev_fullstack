@@ -12,7 +12,7 @@ O candidato deverá disponibilizar o código em um repositório privado do githu
 
 O objeto JSON de um contato deverá conter a seguinte estrutura:
 
-'''
+```
 {
 "id" : 1,
       	"name" : "Patreze Lopes",
@@ -27,7 +27,7 @@ O objeto JSON de um contato deverá conter a seguinte estrutura:
       		}
    	]
   }
-  '''
+```
 
 Deve possuir um endpoint para listar todos os contatos;
 
